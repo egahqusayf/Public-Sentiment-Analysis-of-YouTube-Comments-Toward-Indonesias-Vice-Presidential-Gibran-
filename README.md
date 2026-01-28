@@ -1,0 +1,2 @@
+# Youtube-Comments-Sentiment-Vice-President-Indonesia-Using-Pretrained-Language-Models
+This repository contains a sentiment analysis project on YouTube comments related to the Vice President of Indonesia (Gibran). The study uses Indonesian pretrained language models to classify public opinions into positive, negative, and neutral sentiments, providing insights into public perception based on real-world social media data.
